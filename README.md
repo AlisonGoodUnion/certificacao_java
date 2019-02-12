@@ -8,5 +8,5 @@ Para execução do arquivo java deve ser realizado o compile para gerar o file .
 após executar.
 
 Exemplo:.<br>
-**oca-8/basicoEscopoVariavel$** _javac EscopoVariaveisEstaticas.java_<br>
-**oca-8/basicoEscopoVariavel$** _java EscopoVariaveisEstaticas_
+**estudos-oca-ocp-8/basicoEscopoVariavel$** _javac EscopoVariaveisEstaticas.java_<br>
+**estudos-oca-ocp-8/basicoEscopoVariavel$** _java EscopoVariaveisEstaticas_
