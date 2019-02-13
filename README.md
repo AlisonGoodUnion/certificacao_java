@@ -9,4 +9,7 @@ após executar.
 
 Exemplo:.<br>
 **estudos-oca-ocp-8/basicoEscopoVariavel$** _javac EscopoVariaveisEstaticas.java_<br>
-**estudos-oca-ocp-8/basicoEscopoVariavel$** _java EscopoVariaveisEstaticas_
+**estudos-oca-ocp-8/basicoEscopoVariavel$** _java EscopoVariaveisEstaticas_<br>
+
+
+https://docs.oracle.com/javase/tutorial/extra/certification/javase-8-programmer2.html
